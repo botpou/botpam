@@ -22,7 +22,7 @@
             "value": "false" ,    
             "required": true
              },
-            "SELMAN_GROUP": {
+            "ONLY_GROUP": {
             "description": "",
             "value": "false" ,    
             "required": true
