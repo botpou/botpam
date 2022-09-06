@@ -1,14 +1,14 @@
 {
     "name": "ANDY BOT - MD",
     "description": "ANDYBOT - Makes it easy and fun to use Whatsapp.",
-    "logo": "https://drive.google.com/file/d/1ChHFKfKYkUnScOhL3bZRXwQuulxxm-05/view?usp=drivesdk",
+    "logo": "",
     "keywords": ["whatsapp", "userbot", "andy", "bot", "ai" , "MD" ],
     "repository": "https://github.com/botpou/botpam",
     "website":   "https://aquabot.ga/",
     "success_url": "https://aquabot.ga",
     "stack": "container",
      "env": {
-            "ANDY_SESSION": {
+            "AQUA_SESSION": {
             "description": "",
             "required": true
              },
